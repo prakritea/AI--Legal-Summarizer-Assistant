@@ -2,7 +2,7 @@
 
 ![Hero Banner](./public/homepage.png)
 
-**LegalDocs AI** is an AI-powered web assistant that extracts and summarizes complex legal documents (PDFs) in seconds. Built with a FastAPI backend and a modern React + Builder.io frontend, it delivers concise, accurate legal insights with source traceability.
+**LegalDocs AI** is an AI-powered web assistant that extracts and summarizes complex legal documents (PDFs) in seconds. Built with a FastAPI backend and a modern React + frontend, it delivers concise, accurate legal insights with source traceability.
 
 ---
 
